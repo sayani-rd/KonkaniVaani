@@ -1,0 +1,13 @@
+# Secrets (never commit)
+backend/src/main/resources/firebase-service-account.json
+*.env
+
+# Backend build output
+backend/target/
+
+# Flutter build output
+app/build/
+app/.dart_tool/
+
+# IDE files
+.idea/
