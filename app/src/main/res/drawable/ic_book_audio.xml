@@ -1,0 +1,58 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="160dp"
+    android:height="120dp"
+    android:viewportWidth="160"
+    android:viewportHeight="120">
+    <!-- Warm Background Glow -->
+    <path
+        android:fillColor="#FBE3C8"
+        android:pathData="M80,10 C120,10 145,30 145,60 C145,90 120,110 80,110 C40,110 15,90 15,60 C15,30 40,10 80,10 Z" />
+
+    <!-- Open Book Left Page -->
+    <path
+        android:fillColor="#FFF8F0"
+        android:strokeColor="#7A3912"
+        android:strokeWidth="2.5"
+        android:pathData="M78,40 C60,35 45,38 35,42 L35,88 C45,84 60,82 78,87 Z" />
+    <!-- Open Book Right Page -->
+    <path
+        android:fillColor="#FFFBF5"
+        android:strokeColor="#7A3912"
+        android:strokeWidth="2.5"
+        android:pathData="M78,40 C96,35 111,38 121,42 L121,88 C111,84 96,82 78,87 Z" />
+
+    <!-- Book Cover Spine details -->
+    <path
+        android:fillColor="#BD4B1C"
+        android:strokeColor="#7A3912"
+        android:strokeWidth="2"
+        android:pathData="M33,43 C43,39 59,37 78,42 C97,37 113,39 123,43 L125,48 C115,44 98,42 78,47 C58,42 41,44 31,48 Z" />
+
+    <!-- Text lines on left page -->
+    <path
+        android:strokeColor="#B0A292"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M43,54 L68,51 M43,62 L68,59 M43,70 L68,67 M43,78 L63,76" />
+
+    <!-- Small box/picture on left page -->
+    <path
+        android:fillColor="#EAD8C3"
+        android:strokeColor="#B0A292"
+        android:strokeWidth="1.5"
+        android:pathData="M42,50 L50,48 L50,58 L42,60 Z" />
+
+    <!-- Audio Soundwaves on right side -->
+    <path
+        android:strokeColor="#BD4B1C"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M88,60 L88,68 M94,56 L94,72 M100,52 L100,76 M106,58 L106,70 M112,62 L112,66" />
+
+    <!-- Floating outer soundwaves -->
+    <path
+        android:strokeColor="#BD4B1C"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M23,62 L23,68 M27,58 L27,72 M129,58 L129,72 M133,62 L133,68" />
+</vector>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="screen_bg">#FAF5ED</color>
+    <color name="text_primary">#0F3246</color>
+    <color name="text_secondary">#6B6257</color>
+    <color name="accent_rust">#BD4B1C</color>
+    <color name="search_bg">#F3EBE0</color>
+    <color name="search_hint">#8D8275</color>
+    <color name="bottom_nav_bg">#F4EDE3</color>
+    <color name="bottom_nav_selected_bg">#F8E4D5</color>
+    <color name="bottom_nav_selected">#BD4B1C</color>
+    <color name="bottom_nav_unselected">#2C3E50</color>
+</resources>

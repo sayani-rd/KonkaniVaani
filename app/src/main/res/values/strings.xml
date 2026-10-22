@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KonkaniVaani</string>
+    <string name="app_title_en">\'Konkani Vaani\'</string>
+    <string name="app_title_mr">(कोंकणी वाणी)</string>
+    <string name="search_hint">Search dialect words, phrases, or regions…</string>
+    <string name="empty_contributed_title">Contributed words\nwill show here</string>
+    <string name="empty_contributed_desc">You haven\'t added any dialect words yet.\nTap Contribute below to record and share\nyour native dialect.</string>
+    <string name="add_first_word">Add Your First Word</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_compare">Compare</string>
+    <string name="nav_contribute">Contribute</string>
+    <string name="nav_profile">Profile</string>
+</resources>
